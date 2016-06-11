@@ -1,2 +1,4 @@
 # hello-world
-first GitHub repository
+First GitHub repository.
+
+Learning how to use GitHub before starting a new modeling and simulation project.
